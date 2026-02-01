@@ -12,11 +12,11 @@ Este dashboard interativo foi criado para explorar e analisar dados de salários
 
 ---
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Aplicar conhecimentos de Python e Ciência de Dados para transformar uma base de dados crua em insights visuais, permitindo a análise de faixas salariais por cargo, experiência e localização.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - **Visão Geral:** Métricas principais sobre a média salarial e distribuição.
 - **Filtros Interativos:** Barra lateral para filtrar dados por nível de experiência, cargo ou localização.
@@ -25,7 +25,7 @@ Aplicar conhecimentos de Python e Ciência de Dados para transformar uma base de
   - Distribuição de salários por categoria.
   - Análise comparativa (ex: Junior vs. Senior).
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **[Python](https://www.python.org/)** - Linguagem base.
 - **[Streamlit](https://streamlit.io/)** - Para criação do web app interativo.
