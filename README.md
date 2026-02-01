@@ -1,4 +1,3 @@
-# data-salary-dashboard
 
 # 📊 Dashboard de Análise de Salários na Área de Dados
 
